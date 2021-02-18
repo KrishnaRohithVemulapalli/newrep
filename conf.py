@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'Agrify web application '
+copyright = '2020, Rohith'
+author = 'KrishnaRohithVemulapalli'
 
 # The full version, including alpha/beta/rc tags
 release = ''
